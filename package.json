@@ -1,7 +1,7 @@
 {
-  "name": "Bosco",
+  "name": "Monster",
   "version": "1.0.0",
-  "description": "Gak Ada",
+  "description": "Angelqueen_V2 bot",
   "main": "main.js",
   "directories": {
     "lib": "lib"
